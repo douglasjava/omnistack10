@@ -10,8 +10,8 @@
 
 
 
-	| ![nodejs-2-226035](https://user-images.githubusercontent.com/20793718/72665430-2b01fa80-39e7-11ea-91da-84b87a6d54cb.png)  |  !	[react-1-282599](https://user-images.githubusercontent.com/20793718/72665439-5258c780-39e7-11ea-92a0-fe4ac172c20b.png) |
-	|---|---|
+| ![nodejs-2-226035](https://user-images.githubusercontent.com/20793718/72665430-2b01fa80-39e7-11ea-91da-84b87a6d54cb.png)  |  !	[react-1-282599](https://user-images.githubusercontent.com/20793718/72665439-5258c780-39e7-11ea-92a0-fe4ac172c20b.png) |
+|---|---|
 
 
 ## Code scaffolding
