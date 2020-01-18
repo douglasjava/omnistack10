@@ -2,7 +2,7 @@
 
 ### Back-End
 * Node.js
-![nodejs-logo-png-nice-images-collection-node-js-desktop-wallpapers-370](https://user-images.githubusercontent.com/20793718/72665399-e8d8b900-39e6-11ea-95dc-28d9a7066f4f.png)
+![nodejs-2-226035](https://user-images.githubusercontent.com/20793718/72665430-2b01fa80-39e7-11ea-91da-84b87a6d54cb.png)
 
 ### Front-End
 * ReactJS
