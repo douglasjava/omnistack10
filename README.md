@@ -1,8 +1,12 @@
 # Omnistack10
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
+<p align="center">
+    Projeto Omnistack10
+</p>
+<p align="center">
+	<img src="https://img.shields.io/badge/Language-Node/ReactJs-orange">
+	<img src="https://img.shields.io/badge/Latest%20Update-12/08/2019-brightgreen.svg">
+</p>
 
 ### Back-End
 ![nodejs-2-226035](https://user-images.githubusercontent.com/20793718/72665430-2b01fa80-39e7-11ea-91da-84b87a6d54cb.png)
