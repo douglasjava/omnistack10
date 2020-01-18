@@ -1,10 +1,10 @@
 # omnistack10
 
-###Back-End
+### Back-End
 * Node.js
 
-###Front-End
+### Front-End
 * ReactJS
 
-###Mobile
+### Mobile
 * React Native
