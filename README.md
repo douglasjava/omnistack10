@@ -1,9 +1,6 @@
 # Omnistack10
 
 <p align="center">
-    Projeto Omnistack10
-</p>
-<p align="center">
 	<img src="https://img.shields.io/badge/Language-Node/ReactJs/ReactNative-orange">
 	<img src="https://img.shields.io/badge/Latest%20Update-18/01/2020-brightgreen.svg">
 
